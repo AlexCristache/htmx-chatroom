@@ -1,4 +1,4 @@
-module example.com/chatclient
+module alexcristache/htmxchat
 
 go 1.21.1
 
